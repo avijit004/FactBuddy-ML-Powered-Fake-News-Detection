@@ -1,4 +1,6 @@
 # FactBuddy: ML-Powered Fake News Detection
+![image](https://github.com/user-attachments/assets/e4fb4f53-9ec4-48e1-92fb-cb4cc766dd02)
+
 
 ## 📌 Overview
 FactBuddy is a machine learning-powered fake news detection system designed to analyze online content in real-time. Using **Logistic Regression** and **LSTM**, it evaluates the credibility of news articles and provides accurate assessments with a **99% accuracy rate**.
